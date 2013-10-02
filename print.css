@@ -1,0 +1,6 @@
+#printinfo { display:block; text-align:center; float:none !important; padding-top:10px; padding-bottom:0;}
+#ban, #menu{display: none;} 
+p.verify {display:none;}
+#container{border:none;}
+h1.printtitle{font-size: 50px;text-align:center;padding-bottom: 5px;}
+#resume h3,h4{font-size:12pt;}

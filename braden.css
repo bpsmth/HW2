@@ -1,32 +1,36 @@
-a{}
+body{margin: 0px;}
 
-p{}
+#container{width:1024px; margin:0 auto; border-bottom: solid 3px black;border-top: solid 3px black; border-left: solid 3px black; border-right: solid 3px black; overflow: hidden;}
+}
 
-ul{}
+#ban{ padding: 100000px; background-color:blue;}
 
-#container{}
+#menu{background-color:#003366; padding:5px 10px; text-align:center;}
 
-#banner{}
+#left{background-color:white; float:left; width:490px; padding:10px; height: 800px;border-right: solid 2px black;}
 
-#menu{}
+#right{background-color:white; float:left; width:490px; padding:10px; height: 800px; border-left: solid 2px black;}
 
-#left{}
+#menu li  { display: inline; list-style-type: none; padding-right: 45px;font-size: 20px ;}
 
-#right{}
+#resume{float:left;width:1024px;padding:20px;}
 
-#resume{}
+#printinfo{display:none;}
 
-.column{}
+a.links:hover{color:black;}
 
-.photo{}
+a.links {color: white}
 
-.resumehead{}
+h1.bannertitle{font-size: 50px;text-align:center}
 
-.resume{}
+.photo{border: solid 2px black; background: grey; width: 250px; padding: 20px; margin-right: auto; margin-left: auto; margin-top: 10px; margin-bottom: 20px;text-align: center;}
 
-.resinfo{}
 
-.time{}
+.resumedata{display: inline;}
+
+.resinfo{display: inline;}
+
+.time{display: inline;padding-left:20px;}
 
 
 
