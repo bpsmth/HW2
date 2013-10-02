@@ -1,9 +1,9 @@
 body{margin: 0px;}
 
 #container{width:1024px; margin:0 auto; border-bottom: solid 3px black;border-top: solid 3px black; border-left: solid 3px black; border-right: solid 3px black; overflow: hidden;}
-}
 
-#ban{ padding: 100000px; background-color:blue;}
+
+#ban{ padding: 10px; background-color:blue;}
 
 #menu{background-color:#003366; padding:5px 10px; text-align:center;}
 
